@@ -1,1 +1,3 @@
-Hello Git!
+Hi Git!!!
+
+We can use git through github.com!
