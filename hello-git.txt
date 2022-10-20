@@ -1,7 +1,8 @@
-Hi Git!!!
+Hi Git!
 
 We can use git through the command-line!
 
 Hi from VSCode.
-
 !!!
+
+Committing through VSCode is easy!
